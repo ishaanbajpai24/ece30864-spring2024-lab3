@@ -1,3 +1,15 @@
 a) In a non-Agile environment, a Project Manager, which would be a person who has an understanding of both the business and technical aspects of the project. A Product Owner is needed in Agile Methodology to keep track of the project, balance the business and technical aspect of the project and decide on priorities in the project. This person has a higher level view on the project and can decide what is needed for the project to continue smoothly and get completed by the due date.
 b) A Scrum Master makes sure that the team is following Agile Methodology, conducts Scrum Calls, helps clear roadblocks and tries to make the team more efficient. 
    A Product Owner connects the business and the overall Product to the particular Project. This means that the Product Owner handles the stakeholders, the backlog and tries to maximize the  productivity of the team.
+c)  1) Sprint Planning:
+        - Discuss the work that is expected to be done during the upcoming sprint.
+        - Potentially move stories from the backlog to the sprint.
+        - Assign story points and effort/resources required.
+    2) Daily Scrum:
+        - All team members share updates from their previous efforts.
+        - Team members also update what they will be working on the current day.
+        - Inform the team of any potential roadblocks/blockers
+    3) Sprint Review/Retrospective Meeting:
+        - Review and discuss the progress from the previous sprint.
+        - Discuss what went well and what were the issues that showed up during the sprint.
+        - Move incomplete tasks to backlog.
