@@ -13,3 +13,8 @@ c)  1) Sprint Planning:
         - Review and discuss the progress from the previous sprint.
         - Discuss what went well and what were the issues that showed up during the sprint.
         - Move incomplete tasks to backlog.
+
+d)  Epic: Epic is the overall objective that can be broken down into smaller stories/tasks.
+    Story: A story is a particular task that might be associated with an Epic. This task has an indicator for complexity through the paramter of "Story Points".
+    Bug: A Bug is an issue / problem that can block/impair the development and delivery of the product.
+    Task: A Task is a portion of work that can either come under a Story or the overall Epic.
